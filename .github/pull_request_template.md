@@ -1,4 +1,5 @@
 # Task
 resolve: #〇〇
-<!-- Issue番号とReviewerとAssigneesを指定してください -->
 <!-- ex. resolve: #1 -->
+<!-- Issue番号とReviewer（Issueを出した人）とAssignees（自分）を指定してください -->
+<!-- マージされたら新しいIssueをたてましょう -->
