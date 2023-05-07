@@ -1,2 +1,2 @@
 # shiritori-tutorial
-こんにちは
+hoge
